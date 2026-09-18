@@ -1,6 +1,10 @@
 Changelog
 =========
 
+1.1.2 (Unreleased)
+------------------
+- Enh: Automated code refactoring for HumHub 1.18.1 using Rector
+
 1.1.1 (Februrary 26, 2026)
 --------------------------
 - Fix #61: Update module resources path
